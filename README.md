@@ -1,0 +1,2 @@
+# OpenMRSAutomationFramework
+Automating the OpenMRS 
